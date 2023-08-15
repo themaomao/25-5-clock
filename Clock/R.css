@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,wght@1,100&display=swap');
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #e410c5;
+    z-index: 1;
+    position: relative;
+    font-family: "Gill Sans", sans-serif;
+  }
+  
+  i:hover {
+    color:#ddfff7;
+  }
+  
+  .box2 {
+    width: 300px;
+    height: 200px;
+    background-color: #ddfff7;
+    position: relative;
+    box-shadow: 10px 10px 42px 0 rgba(0, 0, 0, 0.75);
+  }
+ 
